@@ -7,3 +7,17 @@ cd - entra na pasta que quiser
 cd .git - mostra que é repositório git
  
 git clone - clona um repositório 0bs:pegar o link no github
+
+
+QUAIS OS PASSOS FAZER 
+
+
+
+
+
+
+
+
+
+
+
