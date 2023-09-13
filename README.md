@@ -20,7 +20,7 @@ PARA ENVIAR OS COMMITS DO LOCAL PARA O REMOTO
              5- git status
                 6- git commit - para ver o commit
                    7- git remote add origin "colar o link do git hub"
-                      8 - git puh -u  origin main - vai subir o commit
+                      8 - git push -u  origin main - vai subir o commit
 
 
 PARA ENVIAR DO REMOTO PARA O LOCAL 
